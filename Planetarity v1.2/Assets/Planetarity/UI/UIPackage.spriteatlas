@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIPackage
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 90d616fdb2e6d2f419be7d31bdeab408, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 729133709da96c74e8f77f8143c70705, type: 3}
+  - {fileID: 21300000, guid: cf1b7d551fbb49146a95afaf4a0a463c, type: 3}
+  - {fileID: 21300000, guid: 274a93751ee6a674391c9ea3e5bace3c, type: 3}
+  - {fileID: 21300000, guid: 2f2046958500a0742a0bcab8cc1f0308, type: 3}
+  - {fileID: 21300000, guid: 346ae7d8a5a99024f803b1ef2f975717, type: 3}
+  - {fileID: 21300000, guid: c6a260f9be68f594fadc97c64e788d0c, type: 3}
+  - {fileID: 21300000, guid: 6d380beaf83eaae49aa476ce7b607501, type: 3}
+  - {fileID: 21300000, guid: 69a9970c6d2599c4d9a9ed60b4e39f20, type: 3}
+  - {fileID: 21300000, guid: 7b631eed4bd562a4b9b8c34c8e8331c5, type: 3}
+  - {fileID: 21300000, guid: d9653bbe7afa287468753f431c78bdc6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - HPCooldownBar
+  - ButtonBackground
+  - MediumRocketIcon
+  - ScoreIcon
+  - Fbutton_label
+  - BigRocketIcon
+  - GameTitle
+  - NumberOfEnemiesBackground
+  - ButtonBackgroundSelected
+  - SmallRocketIcon
+  m_Tag: UIPackage
+  m_IsVariant: 0
